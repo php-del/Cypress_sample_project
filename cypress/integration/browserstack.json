@@ -1,0 +1,35 @@
+{
+    "auth": {
+      "username": "pratikpathare_oMjcIz",
+      "access_key": "EeUYtZMrb6bLzmGQoszr"
+    },
+    "browsers": [{
+        "browser": "chrome",
+        "os": "Windows 10",
+        "versions": ["latest", "latest - 1"]
+      },
+      {
+        "browser": "firefox",
+        "os": "OS X Mojave",
+        "versions": ["latest", "latest - 1"]
+      },
+      {
+        "browser": "edge",
+        "os": "OS X Catalina",
+        "versions": ["latest"]
+      }
+    ],
+    "run_settings": {
+      "cypress_config_file": "/Users/pratikhemantpathare/Desktop/Cypress_code/cypress/integration/cypress.json",
+      "project_name": "test.js",
+      "build_name": "Build PHP",
+      "parallels": "2"
+    },
+    "connection_settings": {
+        "local": true,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    }
+  }
+  
